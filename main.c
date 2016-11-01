@@ -11,6 +11,7 @@ int main(int argc, char *argv[])
     LOG("111", "222", "nihao");
     LOG("111", "222", "nihao1");
     LOG("111", "222", "nihao2");
+    LOG("111", "222", "nihao3");
 	
 
 	return 0;
