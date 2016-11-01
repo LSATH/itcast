@@ -9,6 +9,8 @@
 int main(int argc, char *argv[])
 {
     LOG("111", "222", "nihao");
+    LOG("111", "222", "nihao1");
+	
 
 	return 0;
 }
